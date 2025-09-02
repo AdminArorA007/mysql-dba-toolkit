@@ -1,3 +1,10 @@
+![Stars](https://img.shields.io/github/stars/AdminArorA007/mysql-dba-toolkit?style=social)
+![Forks](https://img.shields.io/github/forks/AdminArorA007/mysql-dba-toolkit?style=social)
+![License](https://img.shields.io/github/license/AdminArorA007/mysql-dba-toolkit?color=blue)
+![PHP](https://img.shields.io/badge/code-PHP-blueviolet)
+
+![Last Commit](https://img.shields.io/github/last-commit/AdminArorA007/mysql-dba-toolkit)
+![Repo Size](https://img.shields.io/github/repo-size/AdminArorA007/mysql-dba-toolkit)
 
 # MySQL DBA Toolkit by IT-INDIA.org
 
