@@ -46,6 +46,10 @@ Ideal for local or semi-private deployments
 🧠 Why This Toolkit?
 Built for clarity, reproducibility, and rookie onboarding. No bloated UI, no phpMyAdmin overhead — just clean, functional tools for everyday DBA tasks.
 
+🗣️ [Community Q&A: Why This MySQL DBA Toolkit Beats phpMyAdmin](https://www.it-india.org/qa/question.php?id=33)  
+Real-world feedback from DBAs and rookies—session login, modular config, and mutation logging explained.
+
+
 📄 License
 MIT License — free to use, modify, and distribute.
 
